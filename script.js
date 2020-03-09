@@ -1,11 +1,5 @@
 $(document).ready(function () {
 
-    // $("#komentar_dugme").click(function(){
-    //     //prikazujemo /skrivamo formu
-    //     $("#komentar").slideToggle(1000);
-
-    // });
-
     $("#addComment").click(function () {
 
         var name = $("#name").val();
